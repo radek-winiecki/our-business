@@ -1,4 +1,4 @@
-#our-company
+#our-business
 ![ss1.png](Screenshots/ss1.png)
 ![ss1.png](Screenshots/ss2.png)
 ![ss1.png](Screenshots/ss3.png)
